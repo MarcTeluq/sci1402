@@ -1,0 +1,28 @@
+circonscriptions
+
+'Numéro de la circonscription', 
+'Nom de la circonscription',
+'Dernière date de mise à jour au format ISO 8601', 
+'Résultats finaux',\n       
+'Nombre de bureaux complétés', 
+'Nombre total de bureaux',\n       
+'Nombre de votes valides', 
+'Nombre de votes rejetés',\n       
+'Nombre de votes exercés', 
+'Nombre d'électeurs inscrits',\n       
+'Taux de vote valide', 
+'Taux de vote rejeté', 
+'Taux de participation'],
+
+
+votes par candidats
+
+'Numéro de la circonscription', 
+'Numéro du candidat', 
+'Nom', 
+'Prénom',
+'Numéro du parti politique', 
+'Abréviation du parti politique',
+'Nombre total de votes', 
+'Taux de vote', 
+'Nombre de votes en avance']
